@@ -69,7 +69,8 @@ button i{
     
     }
     .players{
-        display: inline-flex;
+        display: flex;
+        justify-content: center;
     }
     .players img{
         width: 50%;
