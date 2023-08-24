@@ -69,7 +69,7 @@ button i{
         positon: relative;
         top: 50%;
         left: 50%;
-        margin: 15px;
+        margin: 15px 15px 15px 0px;
         padding-top: 20px;
     
     }
